@@ -5,7 +5,8 @@ this is a test repo for web22
 #### Testy Test Testy
 
 #THIS IS MY CHANGE
-This is how I am testing to see if I can push more changes to git hub
-git add .
-git commit -m "write message here"
-git push
+<br>This is how to do changes from the terminal to gitHub<br>
+This is how I am testing to see if I can push more changes to git hub<br>
+<br>git add .
+<br>git commit -m "write message here"
+<br>git push
